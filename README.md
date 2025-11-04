@@ -83,6 +83,7 @@ The objective is to showcase strong analytical thinking, data storytelling, and 
 
 ![Uploading Screenshot 2025-11-04 at 8.56.51 AM.png…]()
 
+
 Key visuals:
 
 * Sales Trend Over Time
