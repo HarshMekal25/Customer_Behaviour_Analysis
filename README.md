@@ -81,7 +81,7 @@ The objective is to showcase strong analytical thinking, data storytelling, and 
 
 ## 📈 Dashboard Preview
 
-![Uploading Screenshot 2025-11-04 at 8.56.51 AM.png…]()
+<img width="1172" height="627" alt="Dasboard" src="https://github.com/user-attachments/assets/601a0ec6-4897-472f-876d-230b597fd7a4" />
 
 
 Key visuals:
