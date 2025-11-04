@@ -119,7 +119,7 @@ Key visuals:
 
 **Harsh Mekal**
 📊 Data Analyst | BI & ML Enthusiast
-🔗 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/harsh-mekal/)) • 💻 [Portfolio](https://github.com/harshmekal)
+🔗 [LinkedIn]((https://www.linkedin.com/in/harsh-mekal/)) • 💻 [Portfolio](https://github.com/harshmekal)
 
 ---
 
