@@ -1,5 +1,3 @@
-Here’s a clean, professional, recruiter-friendly **README.md** you can use for your GitHub data analytics project 👇
-
 ---
 
 # 📊 Data Analytics Project — End-to-End Analysis with Python, SQL, and Power BI
