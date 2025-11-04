@@ -81,7 +81,7 @@ The objective is to showcase strong analytical thinking, data storytelling, and 
 
 ## 📈 Dashboard Preview
 
-*(Add a screenshot or GIF of your Power BI dashboard here)*
+<img width="508" height="277" alt="Screenshot 2025-11-04 at 8 47 16 AM" src="https://github.com/user-attachments/assets/3fce9e57-7c68-4dfa-83dd-e6127feb038a" />
 
 Key visuals:
 
